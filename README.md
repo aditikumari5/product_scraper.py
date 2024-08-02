@@ -6,3 +6,8 @@ To create a program that extracts product information from an online e-commerce 
 ```bash
 pip install requests beautifulsoup4
 
+git remote add origin https://github.com/yourusername/product-scraper.git
+git branch -M main
+git push -u origin main
+
+
